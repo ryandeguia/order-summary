@@ -1,0 +1,115 @@
+body {
+    text-align: center;
+    background-color: #C3F8FF;
+    font-size: 16px;
+    margin: 0;
+}
+
+.bg 
+{
+  display:inline-block; 
+  position: absolute;
+}
+
+
+.main-container
+{
+    display: inline-block;
+    position: relative;
+    top: 100px;
+    left: 400px;
+    box-shadow: 4px 8px 10px gray;
+    border-radius: 10px 10px 10px 10px;
+    height: 600px;
+    width: 400px;;
+    padding-bottom: 50px;
+    background-color: whitesmoke;
+    
+}  
+
+h1 
+{
+    margin:10px ;
+}
+
+.dis
+{
+    margin:20px 25px 20px 25px;
+    padding: 0px 50px 0px 50px;
+}
+
+.price
+{
+    background-color: #EEEEEE;
+    left: 25px;
+    height: 50px;
+    border-radius: 10px; 
+    position: relative;
+    padding-top: 10px;
+    padding-bottom: 20px;
+    width: 90%;
+}
+
+.annual 
+{
+    position: absolute;
+    bottom: 15px;
+    left: 110px;
+    font-size: 20px;
+  
+}
+.year 
+{
+    position: absolute;
+    left: 110px;
+    color: #787A91;
+    top: 27px;
+    font-size: 15px;
+    line-height: 2;
+    
+}
+
+a
+{
+    position: absolute;
+    bottom: 25px;
+    right: 30px;
+    color: #5800FF;
+    
+}
+
+.payment
+{
+    position: relative;
+    border-radius: 10px;
+    background-color: #5800FF;
+    color: whitesmoke;
+    margin:30px;
+    padding: 20px;
+    box-shadow: 1px 10px 20px #7F8487;
+    
+}
+
+.cancel
+{
+    position: absolute;
+    bottom: 50px;
+    left: 30px;
+     text-decoration: none;
+     color: #787A91;
+  
+}
+
+.hero-icon
+{
+   position: relative;
+   width: 400px;
+   border-radius: 10px 10px 0 0 ;
+}
+
+.icon-music
+{
+    position: absolute;
+    left: 50px;
+    top: 18px;
+}
